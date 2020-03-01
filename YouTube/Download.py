@@ -1,4 +1,4 @@
-# it's all about practicing
+# it's all about FUN
 
 import webbrowser
 
